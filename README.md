@@ -1,7 +1,7 @@
 
 <h1 align="center" id="title">Vigenere Cipher GUI Application</h1>
 
-<p align="center"><img src="[[https://github.com/mernaatef28/theWorkSpace/blob/main/field.png?raw=true](https://github.com/mernaatef28/Vigenere_Cipher_Algorithm/blob/main/Screenshot%202024-05-25%20040134.png?raw=true)](https://github.com/mernaatef28/Vigenere_Cipher_Algorithm/blob/main/Screenshot%202024-05-25%20040134.png)" alt="project-image"></p>
+<p align="center"><img src="https://github.com/mernaatef28/Vigenere_Cipher_Algorithm/blob/main/Screenshot%202024-05-25%20040134.png?raw=true" alt="project-image"></p>
 
 
 This project provides a simple and user-friendly GUI application for encrypting and decrypting text files using the Vigenere Cipher Algorithm. 
