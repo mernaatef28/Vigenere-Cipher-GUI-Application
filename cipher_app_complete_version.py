@@ -107,7 +107,7 @@ def decrypt_text():
 # Create a themed Tkinter window
 window = tk.Tk()
 window.title("Vigenere Cipher Algorithm")
-window.geometry("500x400")
+window.geometry("500x420")
 window.configure(bg="#f0f0f0")  # Set background color
 
 # Define styles
