@@ -24,3 +24,9 @@ This project provides a simple and user-friendly GUI application for encrypting 
 ## Future Work
 - Extend the application to support other file types.
 - Implement additional cipher algorithms.
+  
+ ## Contributors
+ A big thank you to the contributors who have played a vital role in the development of the Vigenere Cipher GUI Application project:
+- __Mark Magdy__
+
+- __Merna Atef__
